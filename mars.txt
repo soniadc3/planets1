@@ -1,11 +1,9 @@
 
- Mars is very cold and desert like, but it's a nice color.
+Mars is very cold and desert like, but it's a nice color.
 There are two moons!
 Some people might like the lack of humidity, I suppose.   
 We want to consider Venus as a base instead! Cool spaceships can float in its atmosphere. Might be a bit dangerous though...
-<<<<<<< HEAD
 
 Only cool kids go to Mars.
-=======
+
 HELLO SONIA DO U THINK U WOULD BE ABLE TO FIND MARS ON GEOFINDER??
->>>>>>> 63a26bfa7294e9230b56dc7014cd5ebaa5d1f701
